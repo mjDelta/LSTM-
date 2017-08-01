@@ -1,1 +1,2 @@
-#sin(x) function fitting using LSMT
+sin(x) function fitting using LSMT
+--------------------------------------
